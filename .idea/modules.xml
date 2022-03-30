@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Seminar2CTS/Seminar2CTS.iml" filepath="$PROJECT_DIR$/Seminar2CTS/Seminar2CTS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SeminarCTS1.iml" filepath="$PROJECT_DIR$/SeminarCTS1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeminarCtsDesignPatterns1.iml" filepath="$PROJECT_DIR$/SeminarCtsDesignPatterns1.iml" />
     </modules>
   </component>
 </project>
