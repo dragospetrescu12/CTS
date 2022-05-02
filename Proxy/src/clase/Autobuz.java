@@ -10,10 +10,6 @@ public class Autobuz implements MijlocTransport {
         this.nrCalatori = nrCalatori;
     }
 
-    public String getNrAutobuz() {
-        return nrAutobuz;
-    }
-
     public int getNrCalatori() {
         return nrCalatori;
     }
